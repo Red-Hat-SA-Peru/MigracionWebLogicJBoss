@@ -1,0 +1,1 @@
+zip -d $1 WEB-INF/weblogic.xml
